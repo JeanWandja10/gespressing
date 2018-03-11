@@ -1,0 +1,2 @@
+c:\users\user\documents\visual studio 2015\Projects\gespressing\gespressing\bin\Debug\gespressing.exe.config
+C:\Users\clément\Documents\Visual Studio 2010\Projects\gespressing\gespressing\bin\Debug\gespressing.exe.config
